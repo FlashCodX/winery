@@ -5,6 +5,8 @@
 ## Installation
 
 ```bash
+git clone https://github.com/FlashCodX/winery
+cd winery
 npm i
 ```
 
