@@ -2,11 +2,11 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import axios from "axios";
 import { WineType } from "@/typings";
+
 type Data = {
   wines: WineType[];
 };
 
-// 
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
