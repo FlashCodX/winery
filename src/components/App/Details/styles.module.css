@@ -40,6 +40,7 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
+    padding: 20px;
   }
 
   .wineInfo > h1 {
@@ -55,7 +56,12 @@
 
   .wineInfo > span {
     max-width: 100%;
+    font-size: 0.7rem;
     text-align: center;
+  }
+
+  .container > img {
+    height: 300px;
   }
 
   .wineInfo {

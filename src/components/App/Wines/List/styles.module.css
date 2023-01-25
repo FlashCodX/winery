@@ -60,6 +60,11 @@
   }
 
   .container table th {
-    width: 120px;
+    width: 90px;
+    font-size: 0.7rem !important;
+  }
+
+  .container table tr {
+    font-size: 0.7rem !important;
   }
 }

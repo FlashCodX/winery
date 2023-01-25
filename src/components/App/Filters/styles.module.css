@@ -17,3 +17,12 @@
   border: none;
   font-weight: 500;
 }
+@media (max-width: 1300px) {
+  .container h1 {
+    font-size: 0.7rem;
+  }
+
+  .container select {
+    font-size: 0.7rem;
+  }
+}
