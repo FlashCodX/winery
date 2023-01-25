@@ -1,0 +1,9 @@
+.edit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.edit svg {
+  font-size: 1.3rem !important;
+}

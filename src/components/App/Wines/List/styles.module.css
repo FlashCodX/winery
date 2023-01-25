@@ -1,0 +1,65 @@
+.container table {
+  width: 100%;
+  text-align: center;
+}
+
+.container table td {
+  padding: 5px 0;
+}
+
+.container table td {
+  width: 20%;
+}
+
+.container table svg {
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.container td input {
+  width: 50px;
+  text-align: center;
+  border: none;
+  outline: none;
+  text-align: center;
+  background: none;
+}
+
+.container table svg:hover {
+  transform: scale(1.1);
+}
+
+.container table th:first-child {
+  text-align: left;
+}
+
+.container table td:first-child {
+  text-align: left;
+}
+
+@media (max-width: 1300px) {
+  .container {
+    max-width: 600px;
+    overflow-x: scroll;
+  }
+
+  .container::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  .container::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 10px;
+  }
+  .container::-webkit-scrollbar-track {
+    background-color: #f5f5f5;
+  }
+
+  .container table {
+    table-layout: fixed;
+  }
+
+  .container table th {
+    width: 120px;
+  }
+}
