@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "concurrently --kill-others \"next dev\" \"node server.js\"",
-    "build": "next build",
+    "build": "concurrently --kill-others \"next build\" \"node server.js\"",
     "start": "concurrently --kill-others \"next start\" \"node server.js\"",
     "lint": "next lint",
     "cypress": "cypress open"
