@@ -66,7 +66,7 @@ npm run cypress
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software!**
 
 [react]: https://reactjs.org/
 [nextjs]: https://nextjs.org/

@@ -9,7 +9,7 @@
       "price": 24.99,
       "image": "Gewürztraminer.png",
       "description": "Gewürztraminer is a variety of white wine grape that is known for its distinctive floral and spicy aromas. It is believed to have originated in the Traminer region of Italy and Germany, and is now grown in many wine-producing regions around the world. The grape is known for its high level of natural sweetness and is often used to make off-dry or sweet wines.",
-      "quantity": 65,
+      "quantity": 83,
       "comments": [
         {
           "id": 1,
@@ -87,7 +87,7 @@
       "price": 29.99,
       "image": "Chardonnay.png",
       "description": "Chardonnay is a white wine grape variety that is known for its versatility and adaptability. It is believed to have originated in the Burgundy region of France and is now grown in many wine-producing regions around the world. The grape can produce a wide range of styles from light and crisp to buttery and oaky, depending on the winemaking techniques used.",
-      "quantity": 16,
+      "quantity": 32,
       "comments": [
         {
           "id": 1,
